@@ -1,5 +1,5 @@
 {
-	"name": "nette/reflection",
+	"name": "jirkae/reflection",
 	"description": "Nette Reflection: docblock annotations parser and common reflection classes",
 	"keywords": ["nette", "annotation", "reflection"],
 	"homepage": "https://nette.org",
